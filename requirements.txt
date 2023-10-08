@@ -1,5 +1,5 @@
-altair
-numpy
 pandas
-pydeck
+numpy
 streamlit
+Pillow
+opencv-python-headless
